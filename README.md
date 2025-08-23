@@ -1,5 +1,4 @@
 # SQL
-> Osic Kwon (osic.kwon@gmail.com)
 
 ## SELECT
 
@@ -90,3 +89,7 @@ WHERE a.column_x='value' AND a.colum_y = b.column_y;
 
 
 ```
+
+# Author
+> Osic Kwon (osic.kwon@gmail.com)
+
