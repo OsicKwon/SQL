@@ -1,5 +1,5 @@
 # SQL
-
+> Osic Kwon (osic.kwon@gmail.com)
 
 ## SELECT
 
